@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_1"
+        android:title="홈"
+        android:icon="@drawable/ic_home"
+ />
+    <item
+        android:id="@+id/menu_item_2"
+        android:title="즐겨찾기"
+        android:icon="@drawable/ic_bookmark"
+ />
+    <item
+        android:id="@+id/menu_item_3"
+        android:title="추천레시피"
+        android:icon="@drawable/ic_ckt"
+ />
+    <item
+        android:id="@+id/menu_item_4"
+        android:title="설정"
+        android:icon="@drawable/ic_home2"
+        />
+</menu>
